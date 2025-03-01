@@ -159,4 +159,4 @@ The project generated various visualizations to aid in understanding the data an
 5. Implement feature selection to reduce dimensionality
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details. 
+This project is licensed under the Apache License 2.0 License - see the LICENSE file for details. 
